@@ -61,10 +61,12 @@ To get started with Shadow Dance, follow these steps:
 ## Project Status
 Project is *complete*.
 
-
 ## Acknowledgements
 This project draws inspiration from Guitar Hero, published by Activision.
+This project was developed for The University of Melbourne's Object Oriented Software Development coursework
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
+## Important
+Do not attempt to publish this project for commercial use. This project is only available for demo and shall not be copied for commercial use.
