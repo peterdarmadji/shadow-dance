@@ -26,6 +26,8 @@ to complete the 2-parts project given by University of Melbourne Object Oriented
 
 ## Technologies Used
 - [Bagel](https://people.eng.unimelb.edu.au/mcmurtrye/bagel-doc/)
+- [JGameGrid](https://java-online.ch/gamegrid/gamegridEnglish/index.php?inhalt_links=navigation.inc.php&inhalt_mitte=editor/installation.inc.php)
+- [JUnit](https://junit.org/junit5/)
 
 ## Installation
 
